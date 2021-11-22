@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AssessmentApp</string>
+    <string name="please_enter_a_place_name">Please enter a Place Name</string>
+    <string name="rating_out_of_10">Rating: %1$s out of 10</string>
+    <string name="description_text">Description: %1$s</string>
+    <string name="contact_info_text">Contact: %1$s</string>
+    <string name="address_text">Address: %1$s</string>
+    <string name="venue_list">Venue List</string>
+</resources>
